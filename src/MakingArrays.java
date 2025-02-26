@@ -49,8 +49,7 @@ public class MakingArrays {
 //        System.out.println(nums [7]);
 //        System.out.println(nums [8]);
 //        System.out.println(nums [9]);
-//        System.out.println(nums [10]);
-
+//        System.out.println(nums [10]);//
         }
         System.out.println("total " + total);
     }
