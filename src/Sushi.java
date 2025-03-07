@@ -8,7 +8,7 @@ public class Sushi {
     boolean isHot;
 
     public Sushi(double x) {
-        System.out.println("hhh");
+        System.out.println("sushi");
         ingredient = "rice, tuna, cucumber, soy sauce";
         type = "spicy tuna";
         price = x;
@@ -17,7 +17,7 @@ public class Sushi {
     }
 
     public void printInfo(){
-        System.out.println(ingredient + type + price + size + isHot);
+        System.out.println(ingredient + type +" "+ price +" "+ size + " " + isHot);
     }
 
 
